@@ -39,7 +39,7 @@ Se verificó la creación de tablas en el Table Editor y el correcto funcionamie
 
 ## Video
 
-
+## https://youtu.be/XQKd3p1M3Bc
 
 ## Autor
 
